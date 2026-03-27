@@ -1,0 +1,36 @@
+# ── SECRETS ──────────────────────────────────────────────────────
+.env
+*.env
+# If you ever accidentally put your key in a separate file
+*secret*
+*apikey*
+
+# ── AUTO-GENERATED FILES ──────────────────────────────────────────
+# SQLite database (contains user conversations — never commit this)
+vardraj.db
+vardraj.db-shm
+vardraj.db-wal
+
+# Old JSON memory file (replaced by SQLite)
+memory.json
+
+# Log files
+logs/
+*.log
+
+# ── PYTHON ───────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ── OS FILES ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

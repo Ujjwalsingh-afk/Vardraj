@@ -267,8 +267,10 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 
-Ujjwal Singh
-- GitHub: [Ujjwalsingh-afk](https://github.com/Ujjwalsingh-afk)
+**Your Name**
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+
 ---
 
 > *Built to make AI accessible to everyone — regardless of device, connectivity, or location.*
