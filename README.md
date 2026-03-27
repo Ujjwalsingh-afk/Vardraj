@@ -267,9 +267,9 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+Ujjwal Singh
+- GitHub: [Ujjwalsingh-afk]([https://github.com/YOUR_USERNAME](https://github.com/Ujjwalsingh-afk))
+
 
 ---
 
